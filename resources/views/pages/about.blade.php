@@ -12,7 +12,7 @@
 
         </div>
 
-        <p>Feel free to help to improve the <a href="#">source code</a>.</p>
+        <p>Feel free to help to improve the <a href="https://github.com/Bamba4/laracarte-tdn">source code</a>.</p>
 
 
     <hr>
@@ -23,6 +23,10 @@
 
 
     <hr>
+        //git init
+        //git add -A
+        //git commit -m "Setup and add static pages"
+
 
         <h2>Which tools and services are used in Laracarte?</h2>
         <p>Basically it's built on Laravel &amp; Bootstrap. But there's a bunch of services used for email and other sections.</p>
