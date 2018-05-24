@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="{{asset('/css/app.css')}}">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
     <title>{{ page_title($title ?? '') }}</title>
-    <title>{{ isset($title) ? $title . '|' : ' ' }} Laracarte - List of artisans</title>
+    <title>{{ isset($title) ? $title . '|' : ' ' }} {{config('app.name')}} - List of artisans</title>
 </head>
 <body>
 @include('layouts.partials._nav')
