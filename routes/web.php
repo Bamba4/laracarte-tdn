@@ -14,3 +14,5 @@
 Route::get('/', 'PageController@home')->name('root_path');
 
 Route::get('/about' , 'PageController@about')->name('about_path');
+
+Route::get('/contact' , 'MessageController@create')->name('contact_path');

@@ -12,7 +12,7 @@
 
         </div>
 
-        <p>Feel free to help to improve the <a href="https://github.com/Bamba4/config('app.name')-tdn">source code</a>.</p>
+        <p>Feel free to help to improve the <a href="https://github.com/Bamba4/{{config('app.name')}}-tdn">source code</a>.</p>
 
 
     <hr>
